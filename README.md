@@ -3,12 +3,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Me chamo Vitor Hugo, não manjo muito bem nisso aqui mas vamos lá <strong>sua stack</strong>.<br>
+  atualmente eu estou estudando ADS(Análise e Desenvolvimentos de Sistemas) mas até atual momento pretendo ir para o ramo de segurança.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: 
+<img scr="https://img.icons8.com/?size=100&id=55205&format=png&color=000000" alt="C#"/>
+  <img scr="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Pyton"/>
 </p>
 
 <p align="left">
