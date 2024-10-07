@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="dist/github-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+<img src="github-snake.svg" alt="github-snake" />
 
 ###
