@@ -1,31 +1,30 @@
-<h2 align="left">Ainda esta em andamento, aguarde...</h2>
+<h2 align="left" style="color:white;">Ainda está em andamento, aguarde...</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<iframe src="https://giphy.com/embed/afXo8c2BQVVi85brGj" width="480" height="274" style="display:block; margin: 0 auto;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/xbox-demons-diablo-4-afXo8c2BQVVi85brGj">via GIPHY</a></p>
 
-<p align="left"> 
+<p align="left" style="color:white;"> 
   Me chamo Vitor Hugo, não manjo muito bem nisso aqui mas vamos lá <strong>sua stack</strong>.<br>
-  atualmente eu estou estudando ADS(Análise e Desenvolvimentos de Sistemas) mas até atual momento pretendo ir para o ramo de segurança.
+  Atualmente eu estou estudando ADS (Análise e Desenvolvimento de Sistemas), mas até o momento, pretendo ir para o ramo de segurança.
 </p>
 
-<p align="left">
-  🦄 Linguagens: C#, Pyton
+<p align="left" style="color:white;">
+  🦄 Linguagens: C#, Python
 </p>
 
-<p align="left">
-  💼 Ferramentas: Teclado, Monitor e muito cafè
+<p align="left" style="color:white;">
+  💼 Ferramentas: Teclado, Monitor e muito café
 </p>
 
-<p align="left">
+<p align="left" style="color:white;">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-hugo-quinelato-1469b2226/" alt="LinkedIn"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007060066732" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor_hugo_quinelato/" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/vitor-hugo-quinelato-1469b2226/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100007060066732" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/vitor_hugo_quinelato/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-
