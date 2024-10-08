@@ -2,7 +2,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2em11YXhpdmlpb2Vhc2N3M2YyaTl0d2xlaWdmaXg0OTA2bHM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afXo8c2BQVVi85brGj/giphy.webp" alt="Diablo GIF" width="480" height="274" />
 
-<p><a href="https://giphy.com/gifs/xbox-demons-diablo-4-afXo8c2BQVVi85brGj">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/xbox-demons-diablo-4-afXo8c2BQVVi85brGj"></a></p>
 
 
 <p align="left" style="color:white;"> 
