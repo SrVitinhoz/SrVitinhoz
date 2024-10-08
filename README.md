@@ -6,7 +6,7 @@
 
 
 <p align="left" style="color:white;"> 
-  Me chamo Vitor Hugo, não manjo muito bem nisso aqui mas vamos lá <strong>sua stack</strong>.<br>
+  Me chamo Vitor Hugo, não manjo muito bem nisso aqui mas vamos lá.
   Atualmente eu estou estudando ADS (Análise e Desenvolvimento de Sistemas), mas até o momento, pretendo ir para o ramo de segurança.
 </p>
 
