@@ -20,17 +20,18 @@
     💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/vitor-hugo-quinelato-1469b2226/" title="LinkedIn" target="_blank">
-      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" style="cursor:pointer;"/>
-    </a>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/vitor-hugo-quinelato-1469b2226/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" style="cursor:pointer;"/>
+  </a>
 
-    <a href="https://www.facebook.com/profile.php?id=100007060066732" title="Facebook" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook" style="cursor:pointer;"/>
-    </a>
+  <a href="https://www.facebook.com/profile.php?id=100007060066732" title="Facebook" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook" style="cursor:pointer;"/>
+  </a>
 
-    <a href="https://www.instagram.com/vitor_hugo_quinelato/" title="Instagram" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" style="cursor:pointer;"/>
-    </a>
-  </p>
+  <a href="https://www.instagram.com/vitor_hugo_quinelato/" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" style="cursor:pointer;"/>
+  </a>
+</p>
+
 </div>
