@@ -1,7 +1,9 @@
 <div style="text-align: center;">
   <h2 style="color:white;">Ainda está em andamento, aguarde...</h2>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2em11YXhpdmlpb2Vhc2N3M2YyaTl0d2xlaWdmaXg0OTA2bHM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afXo8c2BQVVi85brGj/giphy.webp" alt="Diablo GIF" width="480" height="274" style="display:block; margin:0 auto;" />
+  <div style="text-align: center;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2em11YXhpdmlpb2Vhc2N3M2YyaTl0d2xlaWdmaXg0OTA2bHM1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/afXo8c2BQVVi85brGj/giphy.webp" alt="Diablo GIF" width="480" height="274" />
+  </div>
 
   <p style="color:white;"> 
     Me chamo Vitor Hugo, não manjo muito bem nisso aqui mas vamos lá.<br>
